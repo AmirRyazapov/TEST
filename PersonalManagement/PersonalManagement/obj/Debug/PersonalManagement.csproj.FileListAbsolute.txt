@@ -1,0 +1,7 @@
+C:\Users\Amir\source\repos\PersonalManagement\PersonalManagement\bin\Debug\PersonalManagement.exe.config
+C:\Users\Amir\source\repos\PersonalManagement\PersonalManagement\bin\Debug\PersonalManagement.exe
+C:\Users\Amir\source\repos\PersonalManagement\PersonalManagement\bin\Debug\PersonalManagement.pdb
+C:\Users\Amir\source\repos\PersonalManagement\PersonalManagement\obj\Debug\PersonalManagement.csprojAssemblyReference.cache
+C:\Users\Amir\source\repos\PersonalManagement\PersonalManagement\obj\Debug\PersonalManagement.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\PersonalManagement\PersonalManagement\obj\Debug\PersonalManagement.exe
+C:\Users\Amir\source\repos\PersonalManagement\PersonalManagement\obj\Debug\PersonalManagement.pdb
